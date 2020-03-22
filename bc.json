@@ -5,6 +5,7 @@
 	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"duration" : 3,
 	"description" : "Create a HTML5 form with all the typical inputs",
+	"preview": "https://github.com/breatheco-de/exercise-html5-form/blob/master/preview.png",
 	"talents": [
 		{ "badge": "form-inputs", "points": 10 },
 		{ "badge": "form-designer", "points": 10 },

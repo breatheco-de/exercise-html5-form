@@ -4,6 +4,8 @@
 	"slug" : "html5-form",
 	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"duration" : 3,
+	"difficulty": "beginner",
+	"technologies": ["html5", "html forms"],
 	"description" : "Create a HTML5 form with all the typical inputs",
 	"preview": "https://github.com/breatheco-de/exercise-html5-form/blob/master/preview.png?raw=true",
 	"talents": [

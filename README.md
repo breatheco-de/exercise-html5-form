@@ -8,8 +8,11 @@ On this proyect you will learn to style forms like a Pro! Using boorstrap compon
 
 ## Instructions
 
-1. Please use your bootstrap/css and HTML5 skills to replicate [this exact same form](https://projects.breatheco.de/json?slug=html5-form&preview).
-2. Please, to use all the possible tricks that bootstra gives you to style your forms.
+1. Please use your bootstrap/css and HTML5 skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
+
+<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p>
+
+2. Please, to use all the classes that bootstrap gives you to style your forms, you need almost no CSS of your own.
 3. You have to make sure all inputes are being used properly: Input type date, email, Input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
 5. Use the input type=date, don't try to code your own date picker calendar.

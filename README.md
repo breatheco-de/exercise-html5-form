@@ -1,10 +1,10 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  HTML5 Form
 
-Forms are boring, they are difficult to style and we have to start dealing the so many user-related stuff here (Like usability, security, validations, etc.).
+Forms are boring, they are difficult to style, and we have to start dealing with the many user-related issues here (Like usability, security, validations, etc.).
 
-On the other hand, forms are responsable for the Web 2.0, they enable interactive websites and all the fun!
+On the other hand, forms are responsible for the Web 2.0, they enable interactive websites and all the fun!
 
-On this proyect you will learn to style forms like a Pro! Using boorstrap components, HTML5 elements and your first small validations!
+In this project you will learn to style forms like a Pro! Using boorstrap components, HTML5 elements and your first small validations!
 
 ## Instructions
 
@@ -12,10 +12,10 @@ On this proyect you will learn to style forms like a Pro! Using boorstrap compon
 
 <p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p>
 
-2. Please, to use all the classes that bootstrap gives you to style your forms, you need almost no CSS of your own.
-3. You have to make sure all inputes are being used properly: Input type date, email, Input type number, etc.
+2. In order to practice all the classes that bootstrap gives you to style your forms, you need almost no CSS of your own.
+3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
-5. Use the input type=date, don't try to code your own date picker calendar.
+5. Use the input type="date", don't try to code your own date picker calendar.
 
 ## Resources
 
@@ -23,4 +23,4 @@ Here is the bootstrap 4 documentation about forms: [https://getbootstrap.com/doc
 
 ## What to do if you are stuck?
 
-Don't get frustrated and ask for help! After you try on you own for 30min, it is time to stop trying and ask for help.
+Don't get frustrated, ask for help! After you try on you own for 30 minutes, it is time to stop trying and ask for help.

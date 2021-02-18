@@ -9,7 +9,7 @@ Por otro lado, los formularios son responsables de la Web 2.0, permiten sitios w
 ## Instrucciones
 
 1. Por favor, use sus habilidades bootstrap / css y HTML5 para replicar [esta misma forma exacta](https://projects.breatheco.de/json?slug=html5-form&preview).
-2. Por favor, para utilizar todos los trucos posibles que bootstra le brinda para diseñar sus formularios.
+2. Por favor, para utilizar todos los trucos posibles que bootstrap le brinda para diseñar sus formularios.
 3. Debe asegurarse de que todas las entradas se utilicen correctamente: fecha del tipo de entrada, correo electrónico, número de tipo de entrada, etc.
 4. También debe asegurarse de prevenir y validar el formulario de todas las formas en que HTML5 le permite (entradas, formatos, etc.).
 5. Usa el tipo de entrada = fecha, no intente codificar su propio calendario de selección de fecha.

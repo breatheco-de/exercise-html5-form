@@ -4,7 +4,7 @@ Forms are boring, they are difficult to style, and we have to start dealing with
 
 On the other hand, forms are responsible for the Web 2.0, they enable interactive websites and all the fun!
 
-In this project you will learn to style forms like a Pro! Using boorstrap components, HTML5 elements and your first small validations!
+In this project you will learn to style forms like a Pro! Using bootstrap components, HTML5 elements and your first small validations!
 
 ## Instructions
 

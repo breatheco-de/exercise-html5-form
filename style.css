@@ -1,7 +1,22 @@
 .container{
-    position: relative
+    position: relative;
+    border: black;
 }
 
 .selector-for-some-widget {
   box-sizing: content-box;
+}
+
+
+.bg-light{
+    margin: 10px;
+}
+button{
+    margin: 10px 5px;
+    float: right;
+    
+}
+
+i{
+    color:white;
 }

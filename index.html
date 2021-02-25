@@ -9,7 +9,7 @@
 </head>
 <body>
 <form> 
-<div class="container"> 
+<div class="container "> 
         <div class="clearfix">
         <h1 class="alert alert-secondary">Payments Form example</h1>
     <div class="alert alert-danger" role="alert">
@@ -72,28 +72,42 @@
       </div>
     </div>
 
-    <div class="col-2">
-
-
+    <div class="col-5">
+    <p>We Accept:</p>
+   <div class="rounded bg-secondary">
+       <div class="form-check form-check-inline">
+  <input class="form-check-input position-static" type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+<i class="fab fa-cc-visa"></i></div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input position-static" type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+<i class="fab fa-cc-paypal"></i></div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input position-static" type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+<i class="fab fa-cc-mastercard"></i></div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input position-static" type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+<i class="fab fa-cc-amex"></i></div>
+   </div>
     </div>
 
-<div class=" col-10">
+<div class=" col-7">
       <div class="form-group">
-    <label for="exampleFormControlTextarea1">Example textarea</label>
+    <label for="exampleFormControlTextarea1">Message</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
   </div>
 
 <div class=" col-12 bg-light">
-<button type="button" class="btn btn-primary pull-right"> Cancel</button>
-  <button type="buttun" class="btn btn-primary pull-right">Send</button> 
+    <button type="buttun" class="btn btn-primary pull-right">Send</button> 
+<button type="button" class="btn bg-secondary text-white pull-right"> Cancel</button>
+  
   </div>
-
   </div>
 </div>
 
 </form>
 
 </body>
+<script src="https://kit.fontawesome.com/5155de69dd.js" crossorigin="anonymous"></script>
 <script type="text/javascript" src="app.js"></script>
 </html>

@@ -6,6 +6,17 @@ On the other hand, forms are responsible for the Web 2.0, they enable interactiv
 
 In this project you will learn to style forms like a Pro! Using bootstrap components, HTML5 elements and your first small validations!
 
+## 🌱  How to start this project
+
+This project comes with the necessary files to start working, but you have two options to start:
+
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-html5-form.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-html5-form.git
+````
+
 ## Instructions
 
 1. Please use your bootstrap/css and HTML5 skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).

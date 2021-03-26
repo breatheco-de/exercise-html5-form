@@ -8,14 +8,16 @@ In this project you will learn to style forms like a Pro! Using bootstrap compon
 
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+Do not clone this repository.
 
-a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-html5-form.git
+1. The first step to start coding is cloning the [html boilerplate](https://github.com/4GeeksAcademy/html-hello) on your local computer or opening it using gitpod.
 
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-html5-form.git
-````
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello).
+b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/html-hello`.
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 

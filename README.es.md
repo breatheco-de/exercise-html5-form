@@ -20,7 +20,7 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 ## Instrucciones
 
-1. Por favor, use sus habilidades bootstrap / css y HTML5 para replicar [esta misma forma exacta](https://projects.breatheco.de/json?slug=html5-form&preview).
+1. Por favor, use sus habilidades bootstrap / css y HTML5 para replicar [esta misma forma exacta](https://4geeks.com/interactive-coding-tutorial/beginner/html5-form).
 2. Por favor, para utilizar todos los trucos posibles que bootstrap le brinda para diseñar sus formularios.
 3. Debe asegurarse de que todas las entradas se utilicen correctamente: fecha del tipo de entrada, correo electrónico, número de tipo de entrada, etc.
 4. También debe asegurarse de prevenir y validar el formulario de todas las formas en que HTML5 le permite (entradas, formatos, etc.).

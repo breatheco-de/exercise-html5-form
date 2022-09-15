@@ -16,5 +16,7 @@
 		{ "badge": "tag-master", "points": 5 },
 		{ "badge": "be-dry", "points": 5 },
 		{ "badge": "abc", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }

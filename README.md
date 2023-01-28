@@ -41,13 +41,13 @@ Only if you are using bootstrap: Here is the [bootstrap 5 documentation about fo
 
 ### If you are not using bootstrap
 
-The layut for this exercise requires a lot of `<div>` and boxes, here is a proposal that could work.
+The layout for this exercise requires a lot of `<div>` and boxes, here is a proposal that could work.
 
 ![Box strategy](https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true)
 
 ### If you are using bootstrap
 
-If yuo are using bootstrap look for the forms documentation and read the example layouts, don't just copy paste what you see, try understanding the HTML code behind the examples so you can tweak them into your solution.
+If you are using bootstrap look for the forms documentation and read the example layouts, don't just copy paste what you see, try understanding the HTML code behind the examples so you can tweak them into your solution.
 
 ## What to do if you are stuck?
 

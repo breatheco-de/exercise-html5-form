@@ -48,10 +48,8 @@ The layout for this exercise requires a lot of `<div>` and boxes, here is a prop
 
 <p align="center">
   <img src="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true" height="300" />
-  <a href="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true">click to open image in a new window</a>
 </p>
-
-![Box strategy]()
+<p align="center"><a href="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true">click to open image in a new window</a></p>
 
 ### If you are using bootstrap
 

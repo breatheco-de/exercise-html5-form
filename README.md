@@ -25,7 +25,10 @@ b) If working locally type the following command from your command line: `$ git 
 1. Please use your HTML5/CSS skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
 2. Its recommended to use the bootstrap framework if you already know it. If you don't then practice your layout skills using the flex box.
 
-<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p>
+<p align="center">
+  <img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" />
+  <a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">click to open image in a new window</a>
+</p>
 
 3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
@@ -43,7 +46,12 @@ Only if you are using bootstrap: Here is the [bootstrap 5 documentation about fo
 
 The layout for this exercise requires a lot of `<div>` and boxes, here is a proposal that could work.
 
-![Box strategy](https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true)
+<p align="center">
+  <img src="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true" height="300" />
+  <a href="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true">click to open image in a new window</a>
+</p>
+
+![Box strategy]()
 
 ### If you are using bootstrap
 

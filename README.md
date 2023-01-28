@@ -27,8 +27,8 @@ b) If working locally type the following command from your command line: `$ git 
 
 <p align="center">
   <img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" />
-  <a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">click to open image in a new window</a>
 </p>
+<p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">click to open image in a new window</a></p>
 
 3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).

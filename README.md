@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  HTML5 Form
+#  HTML5 Form
 
 Forms are boring, they are difficult to style, and we have to start dealing with the many user-related issues here (Like usability, security, validations, etc.).
 
@@ -14,26 +14,40 @@ Do not clone this repository.
 
 1. The first step to start coding is cloning the [html boilerplate](https://github.com/4GeeksAcademy/html-hello) on your local computer or opening it using gitpod.
 
-a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello).
-b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/html-hello`.
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello).  
+b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/html-hello`.  
 
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+>💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 
 ## Instructions
 
-1. Please use your bootstrap/css and HTML5 skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
+1. Please use your HTML5/CSS skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
+2. Its recommended to use the bootstrap framework if you already know it. If you don't then practice your layout skills using the flex box.
 
 <p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p>
 
-2. In order to practice all the classes that bootstrap gives you to style your forms, you need almost no CSS of your own.
 3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
 5. Use the input type="date", don't try to code your own date picker calendar.
+6. If you are `not` using bootstrap: build a layout strategy by drawing all the div boxes you can identify, focus particularly on the divs that are layed out horizontaly in the same line because those will require to use `display: flex`.
+7. If you are using bootstrap: In order to practice all the classes that bootstrap gives you to style your forms, you need almost no CSS of your own.
 
 ## Resources
 
-Here is the bootstrap 4 documentation about forms: [https://getbootstrap.com/docs/4.0/components/forms/](https://getbootstrap.com/docs/4.0/components/forms/)
+Only if you are using bootstrap: Here is the [bootstrap 5 documentation about forms](https://getbootstrap.com/docs/5.0/forms/overview/))
+
+## Strategy
+
+### If you are not using bootstrap
+
+The layut for this exercise requires a lot of `<div>` and boxes, here is a proposal that could work.
+
+![Box strategy](https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true)
+
+### If you are using bootstrap
+
+If yuo are using bootstrap look for the forms documentation and read the example layouts, don't just copy paste what you see, try understanding the HTML code behind the examples so you can tweak them into your solution.
 
 ## What to do if you are stuck?
 

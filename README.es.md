@@ -1,4 +1,6 @@
+<!--hide-->
 # Formulario HTML5
+<!--endhide-->
 
 Los formularios son aburridos, difíciles de diseñar y tenemos que empezar a implementarlos aquí (como facilidad de uso, seguridad, validaciones, etc.).
 

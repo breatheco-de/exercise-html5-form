@@ -1,4 +1,6 @@
-#  HTML5 Form
+<!--hide-->
+# HTML5 Form
+<!--endhide-->
 
 Forms are boring, they are difficult to style, and we have to start dealing with the many user-related issues here (Like usability, security, validations, etc.).
 

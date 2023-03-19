@@ -6,7 +6,7 @@ Los formularios son aburridos, difíciles de diseñar y tenemos que empezar a im
 
 Por otro lado, los formularios son responsables de la Web 2.0, permiten sitios web interactivos y toda la diversión.
 
-¡En este proyecto aprenderás a diseñar formularios como un profesional! ¡Usando componentes bootstrap, elementos HTML5 y sus primeras validaciones pequeñas!
+¡En este proyecto aprenderás a diseñar formularios como un profesional! ¡Usando componentes bootstrap, css, elementos HTML5 y sus primeras validaciones pequeñas!
 
 ## 🌱  Cómo iniciar este proyecto
 
@@ -19,7 +19,7 @@ a) Si usas Gitpod (recomendada) puedes clonar el boilerplate haciendo [clic aqu�
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `$ git clone https://github.com/4GeeksAcademy/html-hello`.  
 
 
-💡 Importante: recuerda crear un nuevo repositorio, actualizar el control remoto (`git remote set-url origin <tu nueva url>`) y cargar el código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: recuerda crear un nuevo repositorio, actualizar el control remoto (`git remote set-url origin <tu nueva url>`) y cargar el código en tu nuevo repositorio usando en tu terminal, los siguientes comandos `add`, `commit` y `push`.
 
 ## Instrucciones
 
@@ -31,11 +31,10 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `$ git c
 </p>
 <p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">clic para abrir la imagen en una nueva ventana</a></p>
 
-3. Debe asegurarte de que todas las entradas se utilicen correctamente: fecha del tipo de entrada, correo electrónico, número de tipo de entrada, etc.
+3. Debes asegurarte de que todas las entradas se utilicen correctamente: fecha del tipo de entrada, correo electrónico, número de tipo de entrada, numero maximo de digitos permitidos en cada input(para esto podemos utilizar maxlength=“numero de digitos”, etc.
 4. También debes asegurarse de prevenir y validar el formulario de todas las formas en que HTML5 te permite (entradas, formatos, etc).
-5. Usa el tipo de type="date", no intentes codificar tu propio calendario de selección de fecha.
-6. Si `no` estás usando bootstrap: crea una estrategia de diseño dibujando todos los cuadros div que puedas identificar, concéntrate particularmente en los divs que están dispuestos horizontalmente en la misma línea porque requerirán usar `display: flex`.
-7. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brindan para diseñar sus formularios, casi no necesitas CSS propio.
+5. Si no estás usando bootstrap: crea una estrategia de diseño dibujando todos los cuadros div que puedas identificar, concéntrate particularmente en los divs que están dispuestos horizontalmente en la misma línea porque requerirán usar `display: flex` asi como tambien debes verificar las diferencias de espacios exactos entre cada unos de los input.
+6. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brindan para diseñar sus formularios, casi no necesitas CSS propio, si alguna de las clases de bootstrap no terminan de encajar perfectamente en el deseño, recuerda que puedes modificar sus propiedades css.
 
 ## Recursos
 Solo si estás usando bootstrap: aquí está la [documentación de bootstrap 5 sobre formularios](https://getbootstrap.com/docs/5.0/forms/overview/))
@@ -44,7 +43,7 @@ Solo si estás usando bootstrap: aquí está la [documentación de bootstrap 5 s
 
 ### Si no estás usando bootstrap
 
-El diseño para este ejercicio requiere muchos `<div>` y cajas, aquí hay una propuesta que podría funcionar.
+El diseño para este ejercicio requiere muchos `<div>` y cajas, aquí hay una propuesta que podría funcionar, (debes añadir todo lo que sea necesario mediante tus conocimientos adquiridos hasta ahora).
 
 <p align="center">
  <img src="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true" height="300" />
@@ -53,7 +52,7 @@ El diseño para este ejercicio requiere muchos `<div>` y cajas, aquí hay una pr
 
 ### Si estás usando bootstrap
 
-Si estás usando bootstrap, busca la documentación de formularios y lee los ejemplos de diseño, no copies y pegas lo que ves, intenta entender el código HTML detrás de los ejemplos para que puedas modificarlos en tu solución.
+Si estás usando bootstrap, busca la documentación de formularios y lee los ejemplos de diseño, no copies y pegues lo que ves, intenta entender el código HTML detrás de los ejemplos para que puedas modificarlos en tu solución.
 
 ## ¿Qué hacer si te quedas atascado?
 

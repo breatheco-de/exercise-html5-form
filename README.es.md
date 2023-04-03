@@ -2,24 +2,21 @@
 # Formulario HTML5
 <!--endhide-->
 
-Los formularios son aburridos, difíciles de diseñar y tenemos que empezar a implementarlos aquí (como facilidad de uso, seguridad, validaciones, etc.).
+## 🌱 Cómo comenzar este proyecto
 
-Por otro lado, los formularios son responsables de la Web 2.0, permiten sitios web interactivos y toda la diversión.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-¡En este proyecto aprenderás a diseñar formularios como un profesional! ¡Usando componentes bootstrap, elementos HTML5 y sus primeras validaciones pequeñas!
+Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-## 🌱  Cómo iniciar este proyecto
+Este es el repositorio que necesitas abrir o clonar:
 
-No clones este repositorio. 
+```
+https://github.com/4GeeksAcademy/html-hello
+```
 
-1. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
+**Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate haciendo [clic aquí](https://github.com/4GeeksAcademy/html-hello).
-
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `$ git clone https://github.com/4GeeksAcademy/html-hello`.  
-
-
-💡 Importante: recuerda crear un nuevo repositorio, actualizar el control remoto (`git remote set-url origin <tu nueva url>`) y cargar el código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Instrucciones
 
@@ -59,7 +56,7 @@ Si estás usando bootstrap, busca la documentación de formularios y lee los eje
 
 No te frustres, ¡pide ayuda! Después de intentarlo por tu cuenta durante 30 minutos, es hora de dejar de intentarlo y pedir ayuda.
 
-
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
 
 
 

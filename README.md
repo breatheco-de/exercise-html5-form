@@ -2,23 +2,21 @@
 # HTML5 Form
 <!--endhide-->
 
-Forms are boring, they are difficult to style, and we have to start dealing with the many user-related issues here (Like usability, security, validations, etc.).
-
-On the other hand, forms are responsible Web 2.0, they enable interactive websites and all the fun!
-
-In this project, you will learn to style forms like a Pro! Using bootstrap components, HTML5 elements, and your first small validations!
-
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-1. The first step to start coding is cloning the [html boilerplate](https://github.com/4GeeksAcademy/html-hello) on your local computer or opening it using gitpod.
+We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can clone it on your local computer using the `git clone` command. 
 
-a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/html-hello). 
+This is the repository you need to open or clone:
 
-b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/html-hello`.  
+```
+https://github.com/4GeeksAcademy/html-hello
+```
 
->💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+**Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+
+💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
 
 ## Instructions
@@ -59,3 +57,5 @@ If you are using bootstrap look for the forms documentation and read the example
 ## What to do if you are stuck?
 
 Don't get frustrated, ask for help! After you try on you own for 30 minutes, it is time to stop trying and ask for help.
+
+This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).

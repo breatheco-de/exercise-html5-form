@@ -30,9 +30,8 @@ https://github.com/4GeeksAcademy/html-hello
 
 3. Debe asegurarte de que todas las entradas se utilicen correctamente: fecha del tipo de entrada, correo electrónico, número de tipo de entrada, etc.
 4. También debes asegurarse de prevenir y validar el formulario de todas las formas en que HTML5 te permite (entradas, formatos, etc).
-5. Usa el tipo de type="date", no intentes codificar tu propio calendario de selección de fecha.
-6. Si `no` estás usando bootstrap: crea una estrategia de diseño dibujando todos los cuadros div que puedas identificar, concéntrate particularmente en los divs que están dispuestos horizontalmente en la misma línea porque requerirán usar `display: flex`.
-7. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brindan para diseñar sus formularios, casi no necesitas CSS propio.
+5. Si `no` estás usando bootstrap: crea una estrategia de diseño dibujando todos los cuadros div que puedas identificar, concéntrate particularmente en los divs que están dispuestos horizontalmente en la misma línea porque requerirán usar `display: flex`.
+6. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brindan para diseñar sus formularios, casi no necesitas CSS propio.
 
 ## Recursos
 Solo si estás usando bootstrap: aquí está la [documentación de bootstrap 5 sobre formularios](https://getbootstrap.com/docs/5.0/forms/overview/))

@@ -56,6 +56,6 @@ If you are using bootstrap look for the forms documentation and read the example
 
 ## What to do if you are stuck?
 
-Don't get frustrated, ask for help! After you try on you own for 30 minutes, it is time to stop trying and ask for help.
+Don't get frustrated, ask for help! After you try on you own for 30 minutes, it is time to stop trying and look for help.
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).

@@ -28,7 +28,7 @@ https://github.com/4GeeksAcademy/html-hello
 </p>
 <p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Clic para abrir la imagen en una nueva ventana</a></p>
 
-3. Debe asegurarte de que todas las entradas se utilicen correctamente: fecha del tipo de entrada, correo electrónico, número de tipo de entrada, etc.
+3. Debes asegurarte de que todas las entradas se utilicen correctamente: entradas de tipo fecha, email, número, texto, etc.
 4. También debes asegurarse de prevenir y validar el formulario de todas las formas en que HTML5 te permite (campos obligatorios, formatos, etc.).
 5. Usa el `<input type="date">`, no intentes implementar tu propio calendario de selección de fecha.
 6. Si *no* estás usando Bootstrap: crea una estrategia de diseño dibujando todos los cuadros `<div>` que puedas identificar, concéntrate particularmente en los divs que están colocados horizontalmente en la misma línea porque requerirán usar `display: flex`.

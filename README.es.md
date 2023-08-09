@@ -20,7 +20,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## 📝 Instrucciones
 
-1. Por favor, usa tus habilidades HTML5/CSS y Bootstrap para replicar [este formulario exacto](https://4geeks.com/interactive-coding-tutorial/beginner/html5-form).
+1. Por favor, usa tus habilidades HTML5/CSS y Bootstrap para replicar [este formulario exacto](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
 2. Se recomienda usar el framework de Bootstrap si ya lo conoces. Si no lo haces, practica tus habilidades de diseño usando flexbox.
 
 <p align="center">

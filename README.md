@@ -29,7 +29,7 @@ https://github.com/4GeeksAcademy/html-hello
 </p>
 <p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Click to open image in a new window</a></p>
 
-3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
+3. You have to make sure all inputs are being used properly: Input type: date, email, number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
 5. Use the `<input type="date">`, don't try to code your own date picker calendar.
 6. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs that are laid out horizontally in the same line because those will require using `display: flex`.

@@ -31,7 +31,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## 📒 Resources
 
-Only if you are using Bootstrap: Here is the [Bootstrap 5 documentation about forms](https://getbootstrap.com/docs/5.0/forms/overview/). Try understanding the HTML code behind the examples so you can tweak them into your solution.
+Only if you are using Bootstrap: Here is the [Bootstrap 5 documentation about forms](https://getbootstrap.com/docs/5.2/forms/overview/). Try understanding the HTML code behind the examples so you can tweak them into your solution.
 
 ## Strategy
 

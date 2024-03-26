@@ -25,9 +25,8 @@ https://github.com/4GeeksAcademy/html-hello
 2. It's recommended to use the Bootstrap framework if you already know it. If you don't, then practice your layout skills using flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Click to open image in a new window</a></p>
 3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
-5. Use the `<input type="date">`, don't try to code your own date picker calendar.
-6. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs that are laid out horizontally in the same line because those will require using `display: flex`.
-7. If you are using Bootstrap: In order to practice all the classes that Bootstrap gives you to style your forms, you need almost no CSS of your own.
+5. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs that are laid out horizontally in the same line because those will require using `display: flex`.
+6. If you are using Bootstrap: In order to practice all the classes that Bootstrap gives you to style your forms, you need almost no CSS of your own.
 
 ## 📒 Resources
 

@@ -20,13 +20,15 @@ https://github.com/4GeeksAcademy/html-hello
 
 
 ## 📝 Instructions
+*The goal is to recreate this  [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true). using HTML CSS and Bootstrap (if you learned that already)
+** If you don't already know Bootstrap, this is a chance to practice your skills using Flexbot. This can be a little confusing so don't hesitate to ask for help. 
 
 1. Please use your HTML5/CSS and Bootstrap skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
-2. It's recommended to use the Bootstrap framework if you already know it. If you don't, then practice your layout skills using flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Click to open image in a new window</a></p>
+2. It's recommended to use the Bootstrap framework if you already know it. If you don't, then practice your layout skills using Flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Click to open image in a new window</a></p>
 3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
 5. Use the `<input type="date">`, don't try to code your own date picker calendar.
-6. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs that are laid out horizontally in the same line because those will require using `display: flex`.
+6. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs laid horizontally in the same line because those will require using `display: flex`.
 7. If you are using Bootstrap: In order to practice all the classes that Bootstrap gives you to style your forms, you need almost no CSS of your own.
 
 ## 📒 Resources
@@ -46,7 +48,7 @@ The layout for this exercise requires a lot of `<div>` and boxes, here is a prop
 
 ## What to do if you are stuck?
 
-Don't get frustrated, ask for help! After you try on you own for 30 minutes, it is time to stop trying and ask for help.
+Don't get frustrated, ask for help! After you try on your own for 30 minutes, it is time to stop trying and ask for help.
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
 

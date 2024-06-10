@@ -18,7 +18,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 > 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
-## 📝 Instrucciones
+## 📝 Instrucciones para crear un formulario:
 
 1. Por favor, usa tus habilidades HTML5/CSS y Bootstrap para replicar [este formulario exacto](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
 2. Se recomienda usar el framework de Bootstrap si ya lo conoces. Si no lo haces, practica tus habilidades de diseño usando flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Clic para abrir la imagen en una nueva ventana</a></p>

@@ -4,6 +4,7 @@
 	"slug" : "html5-form",
 	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"duration" : 3,
+	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "beginner",
 	"technologies": ["html5", "html forms"],
 	"description" : "Create a HTML5 form with all the typical inputs",

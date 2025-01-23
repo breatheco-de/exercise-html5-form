@@ -25,7 +25,7 @@ https://github.com/4GeeksAcademy/html-hello
 ## 📝 Instructions
 
 1. Please use your HTML5/CSS and Bootstrap skills to replicate [this exact same form](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
-2. It's recommended to use the Bootstrap framework if you already know it. If you don't, then practice your layout skills using flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Click to open image in a new window</a></p>
+2. It is recommended to use the Bootstrap framework if you already know it. If you don't, then practice your layout skills using flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Click to open image in a new window</a></p>
 3. You have to make sure all inputs are being used properly: Input type date, email, input type number, etc.
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
 5. Use the `<input type="date">`, don't try to code your own date picker calendar.

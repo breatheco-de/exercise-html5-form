@@ -9,7 +9,7 @@
 	"duration" : 3,
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "beginner",
-	"technologies": ["html5", "html forms"],
+	"technologies": ["html5", "html-forms"],
 	"description" : {
 		"us": "Build a complete HTML5 form using various input types, including text, email, date, number, and more. Ensure proper validation and formatting while optionally using Bootstrap for styling and layout.",
 		"es": "Crea un formulario completo en HTML5 utilizando varios tipos de entrada, como texto, correo electrónico, fecha, número y más. Asegura una validación y formato adecuados, opcionalmente usando Bootstrap."

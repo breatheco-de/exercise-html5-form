@@ -1,13 +1,19 @@
 {
 	"status": "published",
-	"title" : "Create a HTML5 form",
+	"title" : {
+		"us": "Create a HTML5 form",
+		"es": "Crea un form HTML5"
+	},
 	"slug" : "html5-form",
 	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"duration" : 3,
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "beginner",
 	"technologies": ["html5", "html forms"],
-	"description" : "Create a HTML5 form with all the typical inputs",
+	"description" : {
+		"us": "Build a complete HTML5 form using various input types, including text, email, date, number, and more. Ensure proper validation and formatting while optionally using Bootstrap for styling and layout.",
+		"es": "Crea un formulario completo en HTML5 utilizando varios tipos de entrada, como texto, correo electrónico, fecha, número y más. Asegura una validación y formato adecuados, opcionalmente usando Bootstrap."
+	},
 	"preview": "https://github.com/breatheco-de/exercise-html5-form/blob/master/preview.png?raw=true",
 	"talents": [
 		{ "badge": "form-inputs", "points": 10 },
@@ -19,5 +25,8 @@
 		{ "badge": "abc", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=168"
+	}
 }

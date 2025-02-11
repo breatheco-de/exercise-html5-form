@@ -6,7 +6,7 @@
 	"duration" : 3,
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "beginner",
-	"technologies": ["html5", "html forms"],
+	"technologies": ["html5", "html-forms"],
 	"description" : "Create a HTML5 form with all the typical inputs",
 	"preview": "https://github.com/breatheco-de/exercise-html5-form/blob/master/preview.png?raw=true",
 	"talents": [

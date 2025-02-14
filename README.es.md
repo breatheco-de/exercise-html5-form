@@ -29,8 +29,9 @@ https://github.com/4GeeksAcademy/html-hello
 3. Debes asegurarte de que todas las entradas se utilicen correctamente: entradas de tipo fecha, email, número, texto, etc.
 4. También debes asegurarte de prevenir y validar el formulario de todas las formas en que HTML5 te permite (campos obligatorios, formatos, etc.).
 5. Usa el `<input type="date">`, no intentes implementar tu propio calendario de selección de fecha.
-6. Si *no* estás usando Bootstrap: crea una estrategia de diseño dibujando todos los cuadros `<div>` que puedas identificar, concéntrate particularmente en los divs que están colocados horizontalmente en la misma línea porque requerirán usar `display: flex`.
-7. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brinda para diseñar sus formularios, casi no necesitas CSS propio.
+6. Si *no* estás usando Bootstrap: crea una estrategia de diseño dibujando todos los cuadros `<div>` que puedas identificar, concéntrate particularmente en los divs
+7. { que están colocados horizontalmente en la misma línea porque requerirán usar `display: flex`.
+8. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brinda para diseñar sus formularios, casi no necesitas CSS propio.
 
 ## 📒 Recursos
 Solo si estás usando Bootstrap: aquí está la [documentación de Bootstrap 5 sobre formularios](https://getbootstrap.com/docs/5.0/forms/overview/). Intenta entender el código HTML detrás de los ejemplos para que puedas modificarlos en tu solución.
@@ -39,7 +40,7 @@ Solo si estás usando Bootstrap: aquí está la [documentación de Bootstrap 5 s
 
 ### Si no estás usando Bootstrap
 
-El diseño para este ejercicio requiere muchos `<div>` y cajas, aquí hay una propuesta que podría funcionar.
+El diseño para este ejercicio requiere muchos <div> y cajas, aquí hay una propuesta que podría funcionar.
 
 <p align="center">
  <img src="https://github.com/breatheco-de/exercise-html5-form/blob/master/.learn/form-strateggy.png?raw=true" height="300" />
